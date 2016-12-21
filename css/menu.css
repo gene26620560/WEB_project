@@ -1,0 +1,15 @@
+#main content table{
+	width: 96%;
+	margin: 0% 2%;
+}
+
+#main content table *{
+	text-align: center;
+	background: #EEEEEE;
+}
+
+#main content table img{
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+}

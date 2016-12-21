@@ -1,0 +1,17 @@
+#main content #ad ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+#main content #ad ul li{
+	position: absolute;
+	opacity: 0;
+	transition: all 1s;
+	list-style: none;
+}
+
+#main content #ad ul li img{
+	left: 0%;
+	width: 100%;
+	object-fit: cover;
+}
